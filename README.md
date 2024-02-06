@@ -7,4 +7,5 @@ The document contains a sales dashboard for a supermarket. It includes charts an
 5. Top selling products
 6. Sales by payment method
 7. Table of quantity ordered by product category and month
+
 In summary, it is a comprehensive sales and operations dashboard for a supermarket, allowing detailed analysis of performance across products, regions, time periods, and other dimensions. The dashboard provides insights to guide business strategy and decisions.
